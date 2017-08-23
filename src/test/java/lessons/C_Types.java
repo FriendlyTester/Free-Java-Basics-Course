@@ -1,3 +1,5 @@
+package lessons;
+
 import org.junit.Test;
 
 public class C_Types

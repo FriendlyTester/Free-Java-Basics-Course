@@ -1,3 +1,5 @@
+package lessons;
+
 //A look at IF statements and LOOPS
 
 public class G_ControlFlow

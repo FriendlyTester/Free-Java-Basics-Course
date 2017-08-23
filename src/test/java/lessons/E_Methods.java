@@ -1,3 +1,5 @@
+package lessons;
+
 public class E_Methods
 {
     //The keyword for a method that doesn't return an object is void.

@@ -1,3 +1,5 @@
+package lessons;
+
 public class I_Encapsulation
 {
     //In the previous lesson we abstracted the speed calculation into a seperate method
@@ -22,5 +24,5 @@ class SpeedCalculator
     }
 }
 
-//Now if we have any new needs for things that calculate speed, we would add them to this SpeedCalculator class.
+//Now if we have any new needs for things that calculate speed, we would add them to this lessons.SpeedCalculator class.
 //Until the point where perhaps this class will get too big, or we can abstract further.

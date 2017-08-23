@@ -1,3 +1,5 @@
+package lessons;
+
 public class D_Variables
 {
     //This is an instance variable.
