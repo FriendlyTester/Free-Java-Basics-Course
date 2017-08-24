@@ -1,4 +1,4 @@
-package lessons;
+package javalessons;
 
 //A look at IF statements and LOOPS
 

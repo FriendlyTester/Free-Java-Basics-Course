@@ -1,4 +1,4 @@
-package lessons;
+package javalessons;
 
 import org.junit.Test;
 

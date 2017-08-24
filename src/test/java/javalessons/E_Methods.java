@@ -1,4 +1,4 @@
-package lessons;
+package javalessons;
 
 public class E_Methods
 {

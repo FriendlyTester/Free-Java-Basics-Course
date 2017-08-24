@@ -1,4 +1,4 @@
-package lessons;
+package javalessons;
 
 //http://localhost:4000/programming/lessons/operators
 

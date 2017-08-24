@@ -1,12 +1,11 @@
-package lessons;
+package javalessons;
 
 //This is how we import another library or class in our class.
 //So in this instance, we want to use the Junit Test Library.
 //In this instance it's the Test class I want.
-import org.junit.Test;
 
 //We need to open our class. We start with public class followed by the name of our class.
-//So in this instance our class is called lessons.A_Syntax.
+//So in this instance our class is called javalessons.A_Syntax.
 public class A_Syntax
 
 //We then open curly braces. This means everything inside this brace is part of the class Syntax.

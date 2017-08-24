@@ -1,4 +1,4 @@
-package lessons;
+package javalessons;
 
 /**
  * This is a class to explain code comments
