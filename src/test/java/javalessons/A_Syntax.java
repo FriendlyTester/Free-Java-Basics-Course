@@ -1,5 +1,6 @@
 package javalessons;
 
+import org.junit.Test;
 //This is how we import another library or class in our class.
 //So in this instance, we want to use the Junit Test Library.
 //In this instance it's the Test class I want.
