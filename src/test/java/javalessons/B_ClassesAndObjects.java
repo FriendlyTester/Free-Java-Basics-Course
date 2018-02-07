@@ -7,7 +7,7 @@ public class B_ClassesAndObjects
     @Test
     public void CreateANewObject()
     {
-        //Underneath the end of this class, you'll see I've made a new class called javalessons.Car.
+        //Underneath the end of this class, you'll see I've made a new class called Car.
         //javalessons.Car has a single variable on it called name, and I've set to be 'Richards javalessons.Car'.
 
         //In common practice to not have many classes in a single file, I'm just doing this as an example.
@@ -31,5 +31,5 @@ public class B_ClassesAndObjects
 
 class Car
 {
-    public String name = "Richards javalessons.Car";
+    public String name = "Richards Car";
 }
