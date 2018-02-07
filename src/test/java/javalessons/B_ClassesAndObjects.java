@@ -16,7 +16,7 @@ public class B_ClassesAndObjects
         //So I want to use the class Car in my code here, therefore I need to make an instance of that class.
         //So I have to create an object which will be of the type car, it will be a variable so I give it a name.
 
-        //Here I've declared a variable called myCar which is of the type Car. I've then used the new keyword to say I want a new instance of the class javalessons.Car.
+        //Here I've declared a variable called myCar which is of the type Car. I've then used the new keyword to say I want a new instance of the class Car.
         Car myCar = new Car();
 
         //I now have a new instance of the Car class, so I have access to its public variables and methods
