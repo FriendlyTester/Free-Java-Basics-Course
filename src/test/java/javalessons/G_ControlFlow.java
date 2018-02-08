@@ -31,7 +31,7 @@ public class G_ControlFlow
         }
     }
 
-    //All the operators we learn in https://friendlytester.co.uk/java/basics/operators can be placed between the brackets.
+    //All the operators we learn in https://automationintesting.com/java/basics/operators can be placed between the brackets.
     //if (operator) is the format.
 
     public void IfElse()
