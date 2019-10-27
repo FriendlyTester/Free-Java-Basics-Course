@@ -13,4 +13,5 @@ hs_err_pid*
 /.idea
 /java/.idea
 *.iml
-/target
+/target/target
+.DS_Store
